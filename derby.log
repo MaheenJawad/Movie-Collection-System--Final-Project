@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 04 21:54:22 EDT 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0196-9e26-c0ed-0000069e2f58 
+on database directory /Users/maheen/Desktop/221 CMPSC/MovieCollectorSystem_FinalProject/MovieDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5a07e868 
+Loaded from file:/Users/maheen/Desktop/221%20CMPSC/db-derby-10.16.1.1-lib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=23.0.2+7-58
+user.dir=/Users/maheen/Desktop/221 CMPSC/MovieCollectorSystem_FinalProject
+os.name=Mac OS X
+os.arch=aarch64
+os.version=15.0.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

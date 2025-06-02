@@ -1,0 +1,9 @@
+Movie|Dune|Sci-Fi|2021|8.1|155|Denis Villeneuve|false
+Movie|The Dark Knight|Action|2008|9.0|152|Christopher Nolan|true
+Documentary|Planet Earth|Nature|2006|9.4|Wildlife|David Attenborough|false
+Documentary|The Social Dilemma|Technology|2020|7.6|Social Media|Various|false
+Movie|Inside Out|Animation|2015|8.2|95|Pete Docter|true
+TV Series|Modern Family|Sitcom|2009|8.5|11|18|true
+TV Series|Suits|Drama|2011|8.4|9|16|true
+
+
